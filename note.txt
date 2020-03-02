@@ -1,0 +1,3 @@
+Got this code from Rosetta code.
+It kind of makes sense, although I'm not comfortable with it.
+I'm very unfamiliar with the comiling code and everything that goes into building this. Will pursue other projects and come back later with more experience.
